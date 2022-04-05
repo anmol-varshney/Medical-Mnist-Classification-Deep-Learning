@@ -11,6 +11,7 @@ There were originaly taken from other datasets and processed into such style. Th
 - ChestCT
 - Hand
 - HeadCT
+
 ![Image](https://github.com/anmol-varshney/Medical-Mnist-Classification-Deep-Learning/blob/main/medical%20mnist.png)
 
 🎯 This can be accessed from the link: 
